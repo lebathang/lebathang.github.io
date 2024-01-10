@@ -66,7 +66,7 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-  #  steam: thắng nek
+   steam: 76561198879417726
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -128,14 +128,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-# navbar-col: "#1A1A1A"
+navbar-col: "#1A1A1A"
 navbar-text-col: "#9000FF"
 navbar-border-col: "#610C9F"
 page-col: "#171717"
 text-col: "#F3F6F4"
 link-col: "#940B92"
 hover-col: "#940B92"
-# footer-col: "#1A1A1A"
+footer-col: "#1A1A1A"
 footer-text-col: "#35155D"
 footer-link-col: "#9000FF"
 footer-hover-col: "#D4ADFC"
