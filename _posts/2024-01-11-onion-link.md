@@ -31,7 +31,7 @@ Các đường link dưới đây đều có tên miền cao cấp `.onion`, do 
 - Facebook (phiên bản onion): `https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/`
 
 **EDUCATION:**
-Tech Learning Collective: `http://lpiyu33yusoalp5kh3f4hak2so2sjjvjw5ykyvu2dulzosgvuffq6sad.onion/`
+- Tech Learning Collective: `http://lpiyu33yusoalp5kh3f4hak2so2sjjvjw5ykyvu2dulzosgvuffq6sad.onion/`
 
 **EMAIL:**
 - TorBox: `http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/`
