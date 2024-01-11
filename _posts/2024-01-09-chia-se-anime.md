@@ -47,8 +47,10 @@ Những trang web, phần mềm, channel,.... được liệt kê dưới đây 
 
 * Vtuber - [Hololive](https://www.youtube.com/@hololive)
 ![hololive](https://yt3.googleusercontent.com/KcWjWY0ZSKbQcJ6ranf_UW6_mJXYq8WSjiY7JOriwKlIBCLncuYbkE9CdkDCXFdzWBu49nVs9g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj){: .mx-auto.d-block :}
-    - [A.I.channel](https://www.youtube.com/@AIChannel) / [A.I.games](https://www.youtube.com/@AIGamesdayo)
+    - A.I
+        - [A.I.channel](https://www.youtube.com/@AIChannel) 
 ![A.I channel](https://yt3.googleusercontent.com/64qt9xri8ZA92QGDmaxb3aWqfIqGI_ZP864WUE7phXQNQrJ2NJkhRfazhP1Ed_Bd_tx314fw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+        - [A.I.games](https://www.youtube.com/@AIGamesdayo)
 ![A.I games](https://yt3.googleusercontent.com/V4jQza8is6dQhoaMpnNz7Y-Mijheq1mT3cRwQ-6e1GB2I0WTFOLZ1b1YOfkDzQdPpeOmkdfR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj){: .mx-auto.d-block :}
     - [Gawr Gura Ch. hololive-EN](https://www.youtube.com/@GawrGura)
 ![gura](https://yt3.googleusercontent.com/t3xRK7KKzsSyranE0V5Jq_WQ2IGpjITuVNEYoxd9UW-JCEs8uQDsk2rK9z_z_6JzSohm7e1L=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj){: .mx-auto.d-block :}
