@@ -766,6 +766,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 .pagination .page-item.next {
   margin-left: auto;
+  background-color: #9000ff;
 }
 
 @media (min-width: 768px) {
