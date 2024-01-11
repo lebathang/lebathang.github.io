@@ -26,16 +26,16 @@ link download: https://www.stremio.com/downloads
 **Một vài hình ảnh của app Stremio:**
 - Giao diện của app:
 
-![stremio-1](/assets/img/stremio-1.jpg)
+![stremio1](/assets/img/stremio1.jpg){: .mx-auto.d-block :}
 
 - Giao diện của phim, ở đây mk lấy ví dụ của bộ anime `The Vexations of a Shut-In Vampire Princess`:
 
-![stremio-2](/assets/img/stremio-2.jpg)
+![stremio2](/assets/img/stremio2.jpg){: .mx-auto.d-block :}
 
 - Giao diện lúc xem film, có tùy chọn `Language` là `tiếng việt`, bạn có thể cài đặt độ to nhỏ của sub khi xem flim:
 
-![stremio-3](/assets/img/stremio-3.jpg)
+![stremio3](/assets/img/stremio3.jpg){: .mx-auto.d-block :}
 
 - Còn có lịch chiếu film khi bạn `add to library` bộ film mà bạn yêu thích hoặc muốn theo dõi:
 
-![stremio-4](/assets/img/stremio-4.jpg)
+![stremio4](/assets/img/stremio4.jpg){: .mx-auto.d-block :}
