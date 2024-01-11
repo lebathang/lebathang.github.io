@@ -3,7 +3,7 @@ categories: ["Web Development"]
 lang: "vi"
 description: "Chia sẻ một vài trang web/links cho anime fan"
 # gh-badge: [star,fork,follow]
-title:  "Tổng hợp các link dành cho fan anime"
+title:  "TỔNG HỢP LINK .onion"
 subtitle: ""
 date:   2024-01-09
 category: Web Share
@@ -12,7 +12,7 @@ comments: true
 social-share: false
 ---
 
-## TỔNG HỢP LINK .onion
+##  Dưới đây là các link `.onion` mà mình đã tổng hợp được
 
 {: .box-note}
 **Note**:
