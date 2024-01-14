@@ -7,7 +7,7 @@ title:  "Xem phim torrent bằng app stremio"
 subtitle: ""
 date:   2024-01-11
 category: Web Share
-tags: [stremio, share, app, software]
+tags: [stremio, share, app, software, torrent]
 comments: true
 social-share: false
 ---
