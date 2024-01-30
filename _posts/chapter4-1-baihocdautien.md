@@ -1,3 +1,16 @@
+---
+categories: ["Light Novel"]
+lang: "vi"
+description: "chapter4-1w"
+# gh-badge: [star,fork,follow]
+title:  "DRAGON PRINCESS"
+subtitle: ""
+date:   2024-01-30
+category: light novel
+tags: [anime, novel , light novel,]
+comments: true
+social-share: false
+---
 Bóng tối.
 Đó là một vực thẳm tối tăm.
 Như thể Chúa Tạo Hóa đã vô tình làm đổ một lọ mực, một góc trời bị bóng tối dày đặc bao phủ.
