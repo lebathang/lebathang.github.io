@@ -10,6 +10,7 @@ category: light novel
 tags: [anime, novel , light novel,]
 comments: true
 social-share: false
+visible: 1
 ---
 Bóng tối.
 Đó là một vực thẳm tối tăm.
