@@ -1,3 +1,17 @@
+---
+categories: ["Light Novel"]
+lang: "vi"
+description: "chapter4-2"
+# gh-badge: [star,fork,follow]
+title:  "DRAGON PRINCESS"
+subtitle: ""
+date:   2024-01-30
+category: light novel
+tags: [anime, novel , light novel,]
+comments: true
+social-share: false
+hidden: true
+---
 Học viện St. Caroline được xây dựng trên một ngọn núi nên những tòa nhà sừng sững giữa vùng đồng bằng đã tạo nên khung cảnh tráng lệ.
 Mặc dù ngọn núi này không được đặt tên, bị lu mờ bởi vinh quang của Học viện St. Caroline và đứng lẻ loi giữa vùng đồng bằng rộng lớn ở phía đông của đế quốc, nhưng nó thực sự là ngọn núi cao nhất trong Holy Dragon Empire (Đế chế Rồng Thánh).
 Đỉnh núi quanh năm bị tuyết bao phủ, nửa trên núi bị mây bao phủ. Ngoại trừ vùng đất bằng phẳng rộng lớn ở phía tây, các khu vực khác hầu hết được bao phủ bởi những khu rừng nguyên sinh tươi tốt.

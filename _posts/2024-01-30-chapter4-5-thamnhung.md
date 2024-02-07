@@ -1,3 +1,17 @@
+---
+categories: ["Light Novel"]
+lang: "vi"
+description: "chapter4-5"
+# gh-badge: [star,fork,follow]
+title:  "DRAGON PRINCESS"
+subtitle: ""
+date:   2024-01-30
+category: light novel
+tags: [anime, novel , light novel,]
+comments: true
+social-share: false
+hidden: true
+---
 "Cứ miễn là Elder Mord được xử lý xong thì mọi chuyện sẽ ổn cả, đúng chứ?"
 
 Đôi mắt của Giáo sư Kumar đang cảm thấy mâu thuẫn bỗng sáng lên khi nghe thấy điều đó. Ông quay đầu nhìn Mord như đang nhìn một người đã chết. Ánh mắt của ông khiến da đầu của Elder Mord tê tái.

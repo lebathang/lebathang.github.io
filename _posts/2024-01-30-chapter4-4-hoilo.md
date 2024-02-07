@@ -1,3 +1,17 @@
+---
+categories: ["Light Novel"]
+lang: "vi"
+description: "chapter4-4"
+# gh-badge: [star,fork,follow]
+title:  "DRAGON PRINCESS"
+subtitle: ""
+date:   2024-01-30
+category: light novel
+tags: [anime, novel , light novel,]
+comments: true
+social-share: false
+hidden: true
+---
 "Đây là…"
 Sau một lúc bối rối, choáng váng và đầu óc trống rỗng, Mord cuối cùng cũng nhận ra mình đang bị hút chặt vào một chiếc trống, trong một tư thế vô cùng mất duyên.
 "Cái quái gì đây?! Tại sao tôi lại ở đây?! Thả tôi ra ngay lập tức!”

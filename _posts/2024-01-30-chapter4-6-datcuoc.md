@@ -1,3 +1,17 @@
+---
+categories: ["Light Novel"]
+lang: "vi"
+description: "chapter4-6"
+# gh-badge: [star,fork,follow]
+title:  "DRAGON PRINCESS"
+subtitle: ""
+date:   2024-01-30
+category: light novel
+tags: [anime, novel , light novel,]
+comments: true
+social-share: false
+hidden: true
+---
 "Điều tôi quan tâm là vị trí cao nhất tiếp theo sau ông."
 
 "Cô có ý nói là Cô muốn làm chủ tịch ủy ban kỷ luật?"

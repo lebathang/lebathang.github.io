@@ -1,3 +1,17 @@
+---
+categories: ["Light Novel"]
+lang: "vi"
+description: "chapter4-3"
+# gh-badge: [star,fork,follow]
+title:  "DRAGON PRINCESS"
+subtitle: ""
+date:   2024-01-30
+category: light novel
+tags: [anime, novel , light novel,]
+comments: true
+social-share: false
+hidden: true
+---
 “Chúa ơi, mệt chết đi được. Cuối cùng cũng có thể cắt đuôi tên chủ tịch ban kỷ luật chết tiệt đó.”
 Lilith đang thở hổn hển khi dựa vào một cái cây. Đã lâu lắm rồi cô mới phải chạy trốn để thoát thân. Điều đó thực sự đã gây tổn hại cho cơ thể nhỏ nhắn của cô.
 “Thật tình mà nói, tên khốn đó thực ra đã cố gài bẫy mình. Đây có phải là điều mà một lớn nên làm? Nếu có thời gian như vậy, chẳng phải ông ta nên kiểm tra đời tư của trưởng khoa sao? Ai biết được, có thể ông ta thực sự sẽ phát hiện ra rằng mình có một vài đứa con ngoài giá thú ”.

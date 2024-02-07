@@ -1,7 +1,7 @@
 ---
 categories: ["Light Novel"]
 lang: "vi"
-description: "chapter4-1w"
+description: "chapter4-1"
 # gh-badge: [star,fork,follow]
 title:  "DRAGON PRINCESS"
 subtitle: ""
@@ -10,7 +10,7 @@ category: light novel
 tags: [anime, novel , light novel,]
 comments: true
 social-share: false
-visible: 1
+hidden: true
 ---
 Bóng tối.
 Đó là một vực thẳm tối tăm.
