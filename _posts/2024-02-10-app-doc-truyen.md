@@ -17,10 +17,11 @@ Vì mới lướt facebook thấy app Tachiyomi bị đánh bản quyền và b�
 
 Mihon là một app đọc truyện mã nguồn mở, app đọc truyện này được lấy nguồn từ nhiều web đọc truyện khác nhau, nó tương tự như stremio thôi, cài extension vào r đọc, bù lại thì ko bị quảng cáo như các web đọc truyện truyền thống, và nó cũng có các extension cung cấp truyện tiếng việt để đọc
 
-Github: [https://github.com/mihonapp/mihon](https://github.com/mihonapp/mihon)
+- Github: [https://github.com/mihonapp/mihon](https://github.com/mihonapp/mihon)
 Website: [https://mihon.app/](https://mihon.app/)
 
-Extension: [https://keiyoushi.github.io/extensions/](https://keiyoushi.github.io/extensions/)
+- Extension: [https://keiyoushi.github.io/extensions/](https://keiyoushi.github.io/extensions/)
+
 `kéo xuống cuối page mới thấy mấy extension tiếng việt`
 
 Screen shot:
@@ -30,7 +31,7 @@ Screen shot:
 ngoài ra thì IOS có một app khác là `tachimanga` trên app store, nó cũng như nhau so với mấy phần mềm mã nguồn mở khác, cũng cài extension r vào đọc thôi
 
 `sau khi cài xong app tachimanga từ app store thì vào link này để cài extension`
-Extension: [https://tachimanga.app/help/guides/adding-repos.html](https://tachimanga.app/help/guides/adding-repos.html)
+- Extension: [https://tachimanga.app/help/guides/adding-repos.html](https://tachimanga.app/help/guides/adding-repos.html)
 
 Screen shot:
 ![Crepe]({{ '/assets/img/tachimanga.png' | relative_url }})
