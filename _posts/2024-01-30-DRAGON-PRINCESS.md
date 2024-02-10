@@ -10,6 +10,7 @@ category: light novel
 tags: [anime, novel , light novel,]
 comments: true
 social-share: false
+hidden: true
 ---
 
 {: .box-note}
@@ -31,7 +32,7 @@ mình thấy trên docln đã ngừng trans nên muốn dịch tiếp bộ này 
 ##### Volume 4:
 - [Chapter 1: Bài học đầu tiên](2024-01-30-chapter4-1-baihocdautien.md)
 - [Chapter 2: Vứt rác là một thói quen xấu](2024-01-30-chapter4-2-vutraclathoiquenxau.md)
-- [Chapter 3: Phát minh hữu ích ](2024-01-30-chapter4-3-phatminhhuuich.md)
+- [Chapter 3: Phát minh hữu ích ](2024-01-30-chapter4-3-phatminhhuu ich.md)
 - [Chapter 4: Hối lộ](2024-01-30-chapter4-4-hoilo.md)
 - [Chapter 5: Tham nhũng](2024-01-30-chapter4-5-thamnhung.md)
 - [Chapter 6: Đặt cược](2024-01-30-chapter4-6-datcuoc.md)
