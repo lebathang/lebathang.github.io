@@ -18,7 +18,7 @@ Vì mới lướt facebook thấy app Tachiyomi bị đánh bản quyền và b�
 Mihon là một app đọc truyện mã nguồn mở, app đọc truyện này được lấy nguồn từ nhiều web đọc truyện khác nhau, nó tương tự như stremio thôi, cài extension vào r đọc, bù lại thì ko bị quảng cáo như các web đọc truyện truyền thống, và nó cũng có các extension cung cấp truyện tiếng việt để đọc
 
 - Github: [https://github.com/mihonapp/mihon](https://github.com/mihonapp/mihon)
-Website: [https://mihon.app/](https://mihon.app/)
+- Website: [https://mihon.app/](https://mihon.app/)
 
 - Extension: [https://keiyoushi.github.io/extensions/](https://keiyoushi.github.io/extensions/)
 
