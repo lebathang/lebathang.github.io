@@ -18,8 +18,22 @@ social-share: false
 
 ![img](https://sinhviencntt.net/wp-content/uploads/2023/02/series-ceh-v12-tieng-viet-1140x570.png)
 
-# CEH (V12)- Certified Ethical Hacker
-(nguồn: blog sinh viên công nghệ thông tin)
+# CEH (V12) - Certified Ethical Hacker
+#### CEH V12 là gì?
+- CEH là từ viết tắt của Certified Ethical Hacker, hay còn gọi là chứng chỉ Hacker có đạo đức (mũ trắng). Một chương trình học CEH được thiết kế hướng dẫn những người có sở thích nghiên cứu về các phương pháp và kỹ thuật hack giúp họ thực hiện vai trò của mình trong an ninh mạng. Chương trình học CEH mới nhất là được gọi là CEH v12. Chương trình này bao gồm 5 bước như sau:
+
+- **Reconnaissance** – Trinh sát là giai đoạn chuẩn bị trong đó kẻ tấn công thu thập thông tin về mục tiêu.
+
+- **Scanning** – Quá trình quét bao gồm các công cụ khác nhau được sử dụng để thu thập thông tin giúp phát hiện các lỗ hổng.
+
+- **Gaining access** – Giành quyền truy cập: khi kẻ tấn công giành được quyền truy cập vào hệ thống hoặc mạng để khởi động một cuộc tấn công.
+
+- **Maintaining access** – Duy trì quyền truy cập bao gồm sự kiên trì của kẻ tấn công tiếp tục truy cập vào hệ thống ngay cả khi hệ thống đã đăng xuất.
+
+- **Covering tracks** – Che dấu vết: nó bao gồm việc không để lại hiện vật nào của công việc đã được thực hiện trước đó, chẳng hạn như xóa công cụ, tập lệnh, v.v.
+
+CEH v12 sẽ giúp bạn có suy nghĩ như một hacker và bảo vệ công ty, hệ thống của bạn không bị tấn công bởi Hacker khác.
+
 ### Module 1: Introduction to Ethical Hacking
 
  * [Phần 1: Tổng quan về bảo mật thông tin](https://sinhviencntt.net/ceh-tieng-viet-module-1-introduction-to-ethical-hacking-phan-1-697)
@@ -42,7 +56,7 @@ social-share: false
  * [Phần 7: Công cụ recon-ng](https://sinhviencntt.net/m2-p-7-cong-cu-recon-ng-1271)
  * [Phần 8: Công cụ Maltego](https://sinhviencntt.net/m2-p8-cong-cu-maltego-1296)
 
- ### Module 3: Scanning Networks
+### Module 3: Scanning Networks
  * [Phần 1: Network Scanning là gì?](https://sinhviencntt.net/m3-p1-network-scanning-la-gi-1342)
  * [Phần 2: Host discovery là gì?](https://sinhviencntt.net/ceh-tieng-viet-m3-p2-host-discovery-la-gi-1375)
  * [Phần 3: Scan host với nmap và Angry IP Scanner](https://sinhviencntt.net/m3-p3-scan-host-voi-nmap-va-angry-ip-scanner-1404)
@@ -53,19 +67,19 @@ social-share: false
  * [Phần 8: Thực hành kỹ thuật né tránh tường lửa và IDS](https://sinhviencntt.net/ceh-ky-thuat-ne-tranh-tuong-lua-va-ids-1726)
  * [Phần 9: Các biện pháp đối phó dò quét mạng](https://sinhviencntt.net/ceh-cac-bien-phap-doi-pho-do-quet-mang-1767)
 
- ### Module 4: Enumeration
+### Module 4: Enumeration
  * [Phần 1: Enumeration là gì?](https://sinhviencntt.net/tong-hop-series-ceh-tieng-viet-1877)
  * [Phần 2: NetBIOS Enumeration](https://sinhviencntt.net/ceh-enumeration-la-gi-1781)
  * [Phần 3: SNMP Enumeration và LDAP Enumeration](https://sinhviencntt.net/ceh-netbios-enumeration-1809)
  * [Phần 4: NTP và NFS Enumeration](https://sinhviencntt.net/ceh-ntp-va-nfs-enumeration-1844)
  * [Phần 5: SMTP và DNS Enumeration](https://sinhviencntt.net/ceh-dns-va-smtp-enumeration-1869)
 
- ### Module 5: Vulnerability Analysis
+### Module 5: Vulnerability Analysis
  * [Phần 1: Lỗ hổng bảo mật là gì?](https://sinhviencntt.net/m5-lo-hong-bao-mat-la-gi-1899)
  * [Phần 2: Một số công cụ đánh giá lỗ hổng](https://sinhviencntt.net/module-5-mot-so-cong-cu-danh-gia-lo-hong-1919)
  * [Phần 3: Một số công cụ dò quét lỗ hổng](https://sinhviencntt.net/module-5-mot-so-cong-cu-do-quet-lo-hong-2008)
 
- ### Module 6: System Hacking (Comming soon.....)
+### Module 6: System Hacking (Comming soon.....)
  * Phần 1: Bẻ khóa trong system hacking (phần 1)
  * Phần 2: Bẻ khóa trong system hacking (tiếp theo)
  * Phần 3: Các bước khai thác lỗ hổng và lỗi Buffer Overflow
