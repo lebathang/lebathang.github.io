@@ -34,6 +34,89 @@ social-share: false
 
 CEH v12 sẽ giúp bạn có suy nghĩ như một hacker và bảo vệ công ty, hệ thống của bạn không bị tấn công bởi Hacker khác.
 
+## Khóa học CEH v12 có những gì?
+Chương trình đào tạo CEH v12 tuyển chọn 20 Module bao gồm nhiều công nghệ, chiến thuật và quy trình cung cấp cho các Hacker có đạo đức tương lai kiến ​​thức cốt lõi cần thiết để phát triển trong nghề mạng.
+
+ **Module 01: Giới thiệu về Ethical Hacking – Hack có đạo đức**
+
+Tìm hiểu các nguyên tắc cơ bản của các vấn đề chính trong thế giới bảo mật thông tin, bao gồm các kiến ​​thức cơ bản về hack có đạo đức, kiểm soát bảo mật thông tin, luật liên quan và quy trình chuẩn.
+
+**Module 02: Dấu chân và trinh sát – Footprinting and Reconnaissance**
+
+Tìm hiểu cách sử dụng các kỹ thuật và công cụ mới nhất để thực hiện theo dõi và theo dõi, một giai đoạn quan trọng trước khi tấn công của quy trình hack có đạo đức.
+
+**Module 03: Quét mạng – Scanning Networks**
+
+Tìm hiểu các kỹ thuật quét mạng khác nhau và biện pháp đối phó.
+
+**Module 04: Liệt kê – Enumeration**
+
+Tìm hiểu các kỹ thuật liệt kê khác nhau, bao gồm các khai thác Giao thức cổng biên giới (BGP) và Chia sẻ tệp mạng (NFS) và các biện pháp đối phó liên quan.
+
+**Module 05: Phân tích lỗ hổng**
+
+Tìm hiểu cách xác định các lỗ hổng bảo mật trong mạng, cơ sở hạ tầng truyền thông và hệ thống đầu cuối của tổ chức mục tiêu. Các loại đánh giá lỗ hổng khác nhau và các công cụ đánh giá lỗ hổng cũng được bao gồm.
+
+**Module 06: Hack hệ thống**
+
+Tìm hiểu về các phương pháp tấn công hệ thống khác nhau được sử dụng để khám phá các lỗ hổng của hệ thống và mạng, bao gồm kỹ thuật ghi dữ liệu ẩn, tấn công phân tích dữ liệu ẩn và cách che giấu dấu vết.
+
+**Module 07: Các mối đe dọa từ phần mềm độc hại**
+
+Tìm hiểu về các loại phần mềm độc hại khác nhau (Trojan, vi rút, sâu máy tính, v.v.), phần mềm độc hại APT và fileless, quy trình phân tích phần mềm độc hại và các biện pháp đối phó với phần mềm độc hại.
+
+**Module 08: Đánh hơi – Sniffing**
+
+Tìm hiểu về các kỹ thuật đánh hơi gói tin và cách sử dụng chúng để khám phá các lỗ hổng mạng, cùng với các biện pháp đối phó để chống lại các cuộc tấn công đánh hơi.
+
+**Module 09: Kỹ thuật xã hội – Social Engineering**
+
+Tìm hiểu các khái niệm và kỹ thuật kỹ thuật xã hội, bao gồm cách xác định các nỗ lực trộm cắp, kiểm tra các lỗ hổng ở cấp độ con người và đề xuất các biện pháp đối phó kỹ thuật xã hội.
+
+**Module 10: Từ chối dịch vụ – DDOS**
+
+Tìm hiểu về các kỹ thuật tấn công Từ chối dịch vụ (DoS) và DoS phân tán (DDoS) khác nhau, cộng với các công cụ được sử dụng để kiểm tra mục tiêu và đưa ra các biện pháp đối phó và bảo vệ DoS và DDoS.
+
+**Module 11: Chiếm quyền điều khiển – Session Hijacking**
+
+Tìm hiểu các kỹ thuật chiếm quyền điều khiển phiên khác nhau được sử dụng để khám phá các điểm yếu về quản lý phiên, xác thực, ủy quyền và mã hóa ở cấp độ mạng cũng như các biện pháp đối phó có liên quan.
+
+**Module 12: Né tránh IDS, Tường lửa và Honeypots**
+
+Tìm hiểu về tường lửa, hệ thống phát hiện xâm nhập (IDS) và các kỹ thuật trốn tránh honeypot; các công cụ được sử dụng để kiểm tra chu vi mạng để tìm điểm yếu; và các biện pháp đối phó.
+
+**Module 13: Hack máy chủ web**
+
+Tìm hiểu về các cuộc tấn công máy chủ web, bao gồm phương pháp tấn công toàn diện được sử dụng để kiểm tra các lỗ hổng trong cơ sở hạ tầng máy chủ web và các biện pháp đối phó.
+
+**Module 14: Hack ứng dụng web**
+
+Tìm hiểu về các cuộc tấn công ứng dụng web, bao gồm phương pháp hack ứng dụng web toàn diện được sử dụng để kiểm tra các lỗ hổng trong ứng dụng web và các biện pháp đối phó.
+
+**Module 15: SQL injection**
+
+Tìm hiểu về các kỹ thuật tấn công SQL injection, kỹ thuật trốn tránh và các biện pháp đối phó với SQL injection.
+
+**Module 16: Hack mạng không dây**
+
+Tìm hiểu về các loại mã hóa khác nhau, các mối đe dọa, phương pháp hack, công cụ hack, công cụ bảo mật và biện pháp đối phó cho mạng không dây.
+
+**Module 17: Hack các nền tảng di động**
+
+Tìm hiểu các vectơ tấn công nền tảng di động, hack Android và iOS, quản lý thiết bị di động, nguyên tắc bảo mật di động và công cụ bảo mật.
+
+**Module 18: Hack IoT**
+
+Tìm hiểu các loại tấn công Internet vạn vật (IoT) và công nghệ vận hành (OT) khác nhau, phương pháp hack, công cụ hack và biện pháp đối phó.
+
+**Module 19: Điện toán đám mây**
+
+Tìm hiểu các khái niệm điện toán đám mây khác nhau, chẳng hạn như công nghệ vùng chứa và điện toán không có máy chủ, các mối đe dọa điện toán đám mây khác nhau, các cuộc tấn công, phương pháp hack cũng như các công cụ và kỹ thuật bảo mật đám mây.
+
+**Module 20: Mật mã học**
+
+Tìm hiểu về thuật toán mã hóa, công cụ mật mã, Cơ sở hạ tầng khóa công khai (PKI), mã hóa email, mã hóa ổ đĩa, tấn công mật mã và công cụ phân tích mật mã.
+
 ### Module 1: Introduction to Ethical Hacking
 
  * [Phần 1: Tổng quan về bảo mật thông tin](https://sinhviencntt.net/ceh-tieng-viet-module-1-introduction-to-ethical-hacking-phan-1-697)
@@ -79,10 +162,18 @@ CEH v12 sẽ giúp bạn có suy nghĩ như một hacker và bảo vệ công ty
  * [Phần 2: Một số công cụ đánh giá lỗ hổng](https://sinhviencntt.net/module-5-mot-so-cong-cu-danh-gia-lo-hong-1919)
  * [Phần 3: Một số công cụ dò quét lỗ hổng](https://sinhviencntt.net/module-5-mot-so-cong-cu-do-quet-lo-hong-2008)
 
-### Module 6: System Hacking (Comming soon.....)
- * Phần 1: Bẻ khóa trong system hacking (phần 1)
- * Phần 2: Bẻ khóa trong system hacking (tiếp theo)
- * Phần 3: Các bước khai thác lỗ hổng và lỗi Buffer Overflow
- * Phần 4: Khai thác Buffer Overflow trên Windows
- * Phần 5: Leo thang đặc quyền
- * Phần 6: Leo thang đặc quyền (tiếp theo)
+### Module 6: System Hacking
+ * [Phần 1: Bẻ khóa trong system hacking (phần 1)](https://sinhviencntt.net/m6-be-khoa-password-trong-system-hacking-1996)
+ * [Phần 2: Bẻ khóa trong system hacking (tiếp theo)](https://sinhviencntt.net/m6-be-khoa-password-trong-system-hacking-tt-2059)
+ * [Phần 3: Các bước khai thác lỗ hổng và lỗi Buffer Overflow](https://sinhviencntt.net/m6-be-khoa-password-trong-system-hacking-tt-2059)
+ * [Phần 4: Khai thác Buffer Overflow trên Windows](https://sinhviencntt.net/m6-khai-thac-buffer-overflow-tren-windows-2200)
+ * [Phần 5: Leo thang đặc quyền](https://sinhviencntt.net/ceh-tieng-viet-leo-thang-dac-quyen-2236)
+ * [Phần 6: Leo thang đặc quyền (tiếp theo)](https://sinhviencntt.net/ceh-duy-tri-quyen-truy-cap-bang-ma-doc-2265)
+ * [Phần 7: Ẩn giấu file bằng NTFS Streams](https://sinhviencntt.net/ceh-tieng-viet-an-giau-file-bang-ntfs-streams-2368)
+ * [Phần 8: Kỹ thuật giấu tin (steganography)](https://sinhviencntt.net/ceh-ky-thuat-giau-tin-steganography-2375)
+
+ ### Module 7:Malware Threats
+ * [Phần 1: Mã độc và cách thức lan truyền của mã độc](https://sinhviencntt.net/ceh-tieng-viet-cach-thuc-lan-truyen-ma-doc-2409)
+ * [Phần 2: Trojan là gì?](https://sinhviencntt.net/ceh-tieng-viet-ma-doc-trojan-2418)
+ * [Phần 3: Exploit kit và các bước tạo Trojan](https://sinhviencntt.net/ceh-tieng-viet-exploit-kit-va-tao-trojan-2447)
+ #### To be continute ....
