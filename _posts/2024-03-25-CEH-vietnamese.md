@@ -172,7 +172,7 @@ Tìm hiểu về thuật toán mã hóa, công cụ mật mã, Cơ sở hạ t�
  * [Phần 7: Ẩn giấu file bằng NTFS Streams](https://sinhviencntt.net/ceh-tieng-viet-an-giau-file-bang-ntfs-streams-2368)
  * [Phần 8: Kỹ thuật giấu tin (steganography)](https://sinhviencntt.net/ceh-ky-thuat-giau-tin-steganography-2375)
 
- ### Module 7:Malware Threats
+### Module 7:Malware Threats
  * [Phần 1: Mã độc và cách thức lan truyền của mã độc](https://sinhviencntt.net/ceh-tieng-viet-cach-thuc-lan-truyen-ma-doc-2409)
  * [Phần 2: Trojan là gì?](https://sinhviencntt.net/ceh-tieng-viet-ma-doc-trojan-2418)
  * [Phần 3: Exploit kit và các bước tạo Trojan](https://sinhviencntt.net/ceh-tieng-viet-exploit-kit-va-tao-trojan-2447)
