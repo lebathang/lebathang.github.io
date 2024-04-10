@@ -176,4 +176,8 @@ Tìm hiểu về thuật toán mã hóa, công cụ mật mã, Cơ sở hạ t�
  * [Phần 1: Mã độc và cách thức lan truyền của mã độc](https://sinhviencntt.net/ceh-tieng-viet-cach-thuc-lan-truyen-ma-doc-2409)
  * [Phần 2: Trojan là gì?](https://sinhviencntt.net/ceh-tieng-viet-ma-doc-trojan-2418)
  * [Phần 3: Exploit kit và các bước tạo Trojan](https://sinhviencntt.net/ceh-tieng-viet-exploit-kit-va-tao-trojan-2447)
+ * [Phần 4: Virus máy tính và phân loại virus](https://sinhviencntt.net/ceh-virus-may-tinh-phan-loai-virus-may-tinh-2559)
+ * [Phần 5: Giới thiệu Ransomware và Worm](https://sinhviencntt.net/ceh-ransomware-la-gi-va-worm-la-gi-2582)
+ * [Phần 6: Tìm hiểu về fileless malware](https://sinhviencntt.net/ceh-tim-hieu-ve-fileless-malware-2584)
+ * [Phần 7: Quy trình phân tích mã độc, phân tích tĩnh](https://sinhviencntt.net/ceh-quy-trinh-phan-tich-ma-doc-phan-tich-tinh-2602)
 #### To be continute ....
