@@ -56,20 +56,13 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-<<<<<<< HEAD
+
   facebook: 100016824016369
   github: lebathang
   twitter: Thang_pr0vjp123
   # patreon: DeanAttali
   # youtube: "@daattali"
-=======
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
->>>>>>> b57d3d4a4abd3027edc8c39e2749a57b53f9a5e2
+
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -146,7 +139,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-<<<<<<< HEAD
+
 navbar-col: "#1A1A1A"
 navbar-text-col: "#9000FF"
 navbar-border-col: "#610C9F"
@@ -159,19 +152,7 @@ footer-border-col: "#610C9F"
 footer-text-col: "#35155D"
 footer-link-col: "#9000FF"
 footer-hover-col: "#D4ADFC"
-=======
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
->>>>>>> b57d3d4a4abd3027edc8c39e2749a57b53f9a5e2
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
