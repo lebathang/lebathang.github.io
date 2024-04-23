@@ -3,15 +3,14 @@ categories: ["study"]
 lang: "vi"
 description: "tài liệu hoc tập CEH"
 # gh-badge: [star,fork,follow]
-title:  "tổng hợp tài liệu CEH Tiếng Việt"
+title: "tổng hợp tài liệu CEH Tiếng Việt"
 subtitle: ""
-date:   2024-03-25
+date: 2024-03-25
 category: Web Share
-tags: [security, share, vietnamese,CEH ]
+tags: [security, share, vietnamese, CEH]
 comments: true
 social-share: false
 ---
-
 
 {: .box-note}
 **Note**:CEH (Certified Ethical Hacker) là một chứng chỉ chứng chỉ uy tín về bảo mật của Ec-Council. Rất nhiều phòng IT xem xét chứng chỉ CEH như là một chuyên môn bắt buộc trong các bài viết liên quan đến bảo mật, làm nó trở thành một chứng chỉ hàng đầu cho các chuyên gia bảo mật. Các chuyên gia có chứng nhận CEH thường được trả lương cao hơn tới 44% so với các chuyên gia không được chứng nhận.
@@ -19,7 +18,14 @@ social-share: false
 ![img](https://sinhviencntt.net/wp-content/uploads/2023/02/series-ceh-v12-tieng-viet-1140x570.png)
 
 # CEH (V12) - Certified Ethical Hacker
-#### CEH V12 là gì?
+
+<details>
+<summary>Click me read more </summary>
+
+### CEH V12 là gì?
+
+<details>
+    <summary>Click me read more</summary>
 - CEH là từ viết tắt của Certified Ethical Hacker, hay còn gọi là chứng chỉ Hacker có đạo đức (mũ trắng). Một chương trình học CEH được thiết kế hướng dẫn những người có sở thích nghiên cứu về các phương pháp và kỹ thuật hack giúp họ thực hiện vai trò của mình trong an ninh mạng. Chương trình học CEH mới nhất là được gọi là CEH v12. Chương trình này bao gồm 5 bước như sau:
 
 - **Reconnaissance** – Trinh sát là giai đoạn chuẩn bị trong đó kẻ tấn công thu thập thông tin về mục tiêu.
@@ -34,10 +40,16 @@ social-share: false
 
 CEH v12 sẽ giúp bạn có suy nghĩ như một hacker và bảo vệ công ty, hệ thống của bạn không bị tấn công bởi Hacker khác.
 
-## Khóa học CEH v12 có những gì?
+</details>
+
+### Khóa học CEH v12 có những gì?
+
+<details>
+<summary>Click me read more </summary>
+
 Chương trình đào tạo CEH v12 tuyển chọn 20 Module bao gồm nhiều công nghệ, chiến thuật và quy trình cung cấp cho các Hacker có đạo đức tương lai kiến ​​thức cốt lõi cần thiết để phát triển trong nghề mạng.
 
- **Module 01: Giới thiệu về Ethical Hacking – Hack có đạo đức**
+**Module 01: Giới thiệu về Ethical Hacking – Hack có đạo đức**
 
 Tìm hiểu các nguyên tắc cơ bản của các vấn đề chính trong thế giới bảo mật thông tin, bao gồm các kiến ​​thức cơ bản về hack có đạo đức, kiểm soát bảo mật thông tin, luật liên quan và quy trình chuẩn.
 
@@ -117,67 +129,77 @@ Tìm hiểu các khái niệm điện toán đám mây khác nhau, chẳng hạn
 
 Tìm hiểu về thuật toán mã hóa, công cụ mật mã, Cơ sở hạ tầng khóa công khai (PKI), mã hóa email, mã hóa ổ đĩa, tấn công mật mã và công cụ phân tích mật mã.
 
+</details>
+</details>
+
 ### Module 1: Introduction to Ethical Hacking
 
- * [Phần 1: Tổng quan về bảo mật thông tin](https://sinhviencntt.net/ceh-tieng-viet-module-1-introduction-to-ethical-hacking-phan-1-697)
- * [Phần 2: Giới thiệu về Cyber Kill Chain](https://sinhviencntt.net/ceh-tieng-viet-module-1-phan-2-gioi-thieu-ve-cyber-kill-chain-705)
- * [Phần 3: Một số khái niệm về hacking, hacking là gì?](https://sinhviencntt.net/ceh-tieng-viet-m-1-p3-mot-so-khai-niem-ve-hacking-745)
- * [Phần 4: Ethical Hacking là gì?](https://sinhviencntt.net/ceh-tieng-viet-m-1-p-4-ethical-hacking-la-gi-764)
- * [Phần 5: Đảm bảo an ninh thông tin, quản lý rủi ro](https://sinhviencntt.net/m1-p5-dam-bao-an-ninh-thong-tin-quan-ly-rui-ro-808)
- * [Phần 6: Thông tin tình báo về mối đe doạ, mô hình hoá mối đe doạ](https://sinhviencntt.net/thong-tin-tinh-bao-ve-moi-de-doa-mo-hinh-hoa-821)
- * [Phần 7: Trí tuệ nhân tạo và học máy trong bảo mật thông tin](https://sinhviencntt.net/m1-p7-hoc-may-trong-bao-mat-thong-tin-835)
- * [Phần 8: Tiêu chuẩn PCI-DSS và ISO/IEC 27001:2013 là gì?](https://sinhviencntt.net/m1-p8-tieu-chuan-pci-dss-va-iso-27001-la-gi-840)
-![img](https://sinhviencntt.net/wp-content/uploads/2022/07/image-75.png)
+- [Phần 1: Tổng quan về bảo mật thông tin](https://sinhviencntt.net/ceh-tieng-viet-module-1-introduction-to-ethical-hacking-phan-1-697)
+- [Phần 2: Giới thiệu về Cyber Kill Chain](https://sinhviencntt.net/ceh-tieng-viet-module-1-phan-2-gioi-thieu-ve-cyber-kill-chain-705)
+- [Phần 3: Một số khái niệm về hacking, hacking là gì?](https://sinhviencntt.net/ceh-tieng-viet-m-1-p3-mot-so-khai-niem-ve-hacking-745)
+- [Phần 4: Ethical Hacking là gì?](https://sinhviencntt.net/ceh-tieng-viet-m-1-p-4-ethical-hacking-la-gi-764)
+- [Phần 5: Đảm bảo an ninh thông tin, quản lý rủi ro](https://sinhviencntt.net/m1-p5-dam-bao-an-ninh-thong-tin-quan-ly-rui-ro-808)
+- [Phần 6: Thông tin tình báo về mối đe doạ, mô hình hoá mối đe doạ](https://sinhviencntt.net/thong-tin-tinh-bao-ve-moi-de-doa-mo-hinh-hoa-821)
+- [Phần 7: Trí tuệ nhân tạo và học máy trong bảo mật thông tin](https://sinhviencntt.net/m1-p7-hoc-may-trong-bao-mat-thong-tin-835)
+- [Phần 8: Tiêu chuẩn PCI-DSS và ISO/IEC 27001:2013 là gì?](https://sinhviencntt.net/m1-p8-tieu-chuan-pci-dss-va-iso-27001-la-gi-840)
+  ![img](https://sinhviencntt.net/wp-content/uploads/2022/07/image-75.png)
 
 ### Module 2: Footprinting and Reconnaissance
- * [Phần 1: Footprinting là gì?](https://sinhviencntt.net/m2-p1-footprinting-la-gi-858)
- * [Phần 2: Footprinting bằng công cụ tìm kiếm](https://sinhviencntt.net/m2-lab-1-footprinting-bang-cong-cu-tim-kiem-861)
- * [Phần 3: Footprinting thông qua các dịch vụ web](https://sinhviencntt.net/m2-lab-2-footprinting-bang-cac-dich-vu-web-872)
- * [Phần 4: Email Footprinting – Truy vết email](https://sinhviencntt.net/m2-p2-email-footprinting-truy-vet-email-1041)
- * [Phần 5: DNS Footprinting](https://sinhviencntt.net/module-2-phan-5-dns-footprinting-1176)
- * [Phần 6: Network footprinting](https://sinhviencntt.net/m2-p6-network-footprinting-1239)
- * [Phần 7: Công cụ recon-ng](https://sinhviencntt.net/m2-p-7-cong-cu-recon-ng-1271)
- * [Phần 8: Công cụ Maltego](https://sinhviencntt.net/m2-p8-cong-cu-maltego-1296)
+
+- [Phần 1: Footprinting là gì?](https://sinhviencntt.net/m2-p1-footprinting-la-gi-858)
+- [Phần 2: Footprinting bằng công cụ tìm kiếm](https://sinhviencntt.net/m2-lab-1-footprinting-bang-cong-cu-tim-kiem-861)
+- [Phần 3: Footprinting thông qua các dịch vụ web](https://sinhviencntt.net/m2-lab-2-footprinting-bang-cac-dich-vu-web-872)
+- [Phần 4: Email Footprinting – Truy vết email](https://sinhviencntt.net/m2-p2-email-footprinting-truy-vet-email-1041)
+- [Phần 5: DNS Footprinting](https://sinhviencntt.net/module-2-phan-5-dns-footprinting-1176)
+- [Phần 6: Network footprinting](https://sinhviencntt.net/m2-p6-network-footprinting-1239)
+- [Phần 7: Công cụ recon-ng](https://sinhviencntt.net/m2-p-7-cong-cu-recon-ng-1271)
+- [Phần 8: Công cụ Maltego](https://sinhviencntt.net/m2-p8-cong-cu-maltego-1296)
 
 ### Module 3: Scanning Networks
- * [Phần 1: Network Scanning là gì?](https://sinhviencntt.net/m3-p1-network-scanning-la-gi-1342)
- * [Phần 2: Host discovery là gì?](https://sinhviencntt.net/ceh-tieng-viet-m3-p2-host-discovery-la-gi-1375)
- * [Phần 3: Scan host với nmap và Angry IP Scanner](https://sinhviencntt.net/m3-p3-scan-host-voi-nmap-va-angry-ip-scanner-1404)
- * [Phần 4: Dò quét port và dịch vụ đang chạy](https://sinhviencntt.net/m3-do-quet-port-dich-vu-dang-chay-1421)
- * [Phần 5: Thực hành dò quét port](https://sinhviencntt.net/ceh-thuc-hanh-do-quet-port-1675)
- * [Phần 6: Xác định phiên bản của dịch vụ và hệ điều hành](https://sinhviencntt.net/ceh-xac-dinh-phien-ban-cua-dich-vu-1657)
- * [Phần 7: Dò quét né tránh tường lửa và IDS](https://sinhviencntt.net/ceh-do-quet-ne-tranh-tuong-lua-va-ids-1703)
- * [Phần 8: Thực hành kỹ thuật né tránh tường lửa và IDS](https://sinhviencntt.net/ceh-ky-thuat-ne-tranh-tuong-lua-va-ids-1726)
- * [Phần 9: Các biện pháp đối phó dò quét mạng](https://sinhviencntt.net/ceh-cac-bien-phap-doi-pho-do-quet-mang-1767)
+
+- [Phần 1: Network Scanning là gì?](https://sinhviencntt.net/m3-p1-network-scanning-la-gi-1342)
+- [Phần 2: Host discovery là gì?](https://sinhviencntt.net/ceh-tieng-viet-m3-p2-host-discovery-la-gi-1375)
+- [Phần 3: Scan host với nmap và Angry IP Scanner](https://sinhviencntt.net/m3-p3-scan-host-voi-nmap-va-angry-ip-scanner-1404)
+- [Phần 4: Dò quét port và dịch vụ đang chạy](https://sinhviencntt.net/m3-do-quet-port-dich-vu-dang-chay-1421)
+- [Phần 5: Thực hành dò quét port](https://sinhviencntt.net/ceh-thuc-hanh-do-quet-port-1675)
+- [Phần 6: Xác định phiên bản của dịch vụ và hệ điều hành](https://sinhviencntt.net/ceh-xac-dinh-phien-ban-cua-dich-vu-1657)
+- [Phần 7: Dò quét né tránh tường lửa và IDS](https://sinhviencntt.net/ceh-do-quet-ne-tranh-tuong-lua-va-ids-1703)
+- [Phần 8: Thực hành kỹ thuật né tránh tường lửa và IDS](https://sinhviencntt.net/ceh-ky-thuat-ne-tranh-tuong-lua-va-ids-1726)
+- [Phần 9: Các biện pháp đối phó dò quét mạng](https://sinhviencntt.net/ceh-cac-bien-phap-doi-pho-do-quet-mang-1767)
 
 ### Module 4: Enumeration
- * [Phần 1: Enumeration là gì?](https://sinhviencntt.net/tong-hop-series-ceh-tieng-viet-1877)
- * [Phần 2: NetBIOS Enumeration](https://sinhviencntt.net/ceh-enumeration-la-gi-1781)
- * [Phần 3: SNMP Enumeration và LDAP Enumeration](https://sinhviencntt.net/ceh-netbios-enumeration-1809)
- * [Phần 4: NTP và NFS Enumeration](https://sinhviencntt.net/ceh-ntp-va-nfs-enumeration-1844)
- * [Phần 5: SMTP và DNS Enumeration](https://sinhviencntt.net/ceh-dns-va-smtp-enumeration-1869)
+
+- [Phần 1: Enumeration là gì?](https://sinhviencntt.net/tong-hop-series-ceh-tieng-viet-1877)
+- [Phần 2: NetBIOS Enumeration](https://sinhviencntt.net/ceh-enumeration-la-gi-1781)
+- [Phần 3: SNMP Enumeration và LDAP Enumeration](https://sinhviencntt.net/ceh-netbios-enumeration-1809)
+- [Phần 4: NTP và NFS Enumeration](https://sinhviencntt.net/ceh-ntp-va-nfs-enumeration-1844)
+- [Phần 5: SMTP và DNS Enumeration](https://sinhviencntt.net/ceh-dns-va-smtp-enumeration-1869)
 
 ### Module 5: Vulnerability Analysis
- * [Phần 1: Lỗ hổng bảo mật là gì?](https://sinhviencntt.net/m5-lo-hong-bao-mat-la-gi-1899)
- * [Phần 2: Một số công cụ đánh giá lỗ hổng](https://sinhviencntt.net/module-5-mot-so-cong-cu-danh-gia-lo-hong-1919)
- * [Phần 3: Một số công cụ dò quét lỗ hổng](https://sinhviencntt.net/module-5-mot-so-cong-cu-do-quet-lo-hong-2008)
+
+- [Phần 1: Lỗ hổng bảo mật là gì?](https://sinhviencntt.net/m5-lo-hong-bao-mat-la-gi-1899)
+- [Phần 2: Một số công cụ đánh giá lỗ hổng](https://sinhviencntt.net/module-5-mot-so-cong-cu-danh-gia-lo-hong-1919)
+- [Phần 3: Một số công cụ dò quét lỗ hổng](https://sinhviencntt.net/module-5-mot-so-cong-cu-do-quet-lo-hong-2008)
 
 ### Module 6: System Hacking
- * [Phần 1: Bẻ khóa trong system hacking (phần 1)](https://sinhviencntt.net/m6-be-khoa-password-trong-system-hacking-1996)
- * [Phần 2: Bẻ khóa trong system hacking (tiếp theo)](https://sinhviencntt.net/m6-be-khoa-password-trong-system-hacking-tt-2059)
- * [Phần 3: Các bước khai thác lỗ hổng và lỗi Buffer Overflow](https://sinhviencntt.net/m6-be-khoa-password-trong-system-hacking-tt-2059)
- * [Phần 4: Khai thác Buffer Overflow trên Windows](https://sinhviencntt.net/m6-khai-thac-buffer-overflow-tren-windows-2200)
- * [Phần 5: Leo thang đặc quyền](https://sinhviencntt.net/ceh-tieng-viet-leo-thang-dac-quyen-2236)
- * [Phần 6: Leo thang đặc quyền (tiếp theo)](https://sinhviencntt.net/ceh-duy-tri-quyen-truy-cap-bang-ma-doc-2265)
- * [Phần 7: Ẩn giấu file bằng NTFS Streams](https://sinhviencntt.net/ceh-tieng-viet-an-giau-file-bang-ntfs-streams-2368)
- * [Phần 8: Kỹ thuật giấu tin (steganography)](https://sinhviencntt.net/ceh-ky-thuat-giau-tin-steganography-2375)
+
+- [Phần 1: Bẻ khóa trong system hacking (phần 1)](https://sinhviencntt.net/m6-be-khoa-password-trong-system-hacking-1996)
+- [Phần 2: Bẻ khóa trong system hacking (tiếp theo)](https://sinhviencntt.net/m6-be-khoa-password-trong-system-hacking-tt-2059)
+- [Phần 3: Các bước khai thác lỗ hổng và lỗi Buffer Overflow](https://sinhviencntt.net/m6-be-khoa-password-trong-system-hacking-tt-2059)
+- [Phần 4: Khai thác Buffer Overflow trên Windows](https://sinhviencntt.net/m6-khai-thac-buffer-overflow-tren-windows-2200)
+- [Phần 5: Leo thang đặc quyền](https://sinhviencntt.net/ceh-tieng-viet-leo-thang-dac-quyen-2236)
+- [Phần 6: Leo thang đặc quyền (tiếp theo)](https://sinhviencntt.net/ceh-duy-tri-quyen-truy-cap-bang-ma-doc-2265)
+- [Phần 7: Ẩn giấu file bằng NTFS Streams](https://sinhviencntt.net/ceh-tieng-viet-an-giau-file-bang-ntfs-streams-2368)
+- [Phần 8: Kỹ thuật giấu tin (steganography)](https://sinhviencntt.net/ceh-ky-thuat-giau-tin-steganography-2375)
 
 ### Module 7:Malware Threats
- * [Phần 1: Mã độc và cách thức lan truyền của mã độc](https://sinhviencntt.net/ceh-tieng-viet-cach-thuc-lan-truyen-ma-doc-2409)
- * [Phần 2: Trojan là gì?](https://sinhviencntt.net/ceh-tieng-viet-ma-doc-trojan-2418)
- * [Phần 3: Exploit kit và các bước tạo Trojan](https://sinhviencntt.net/ceh-tieng-viet-exploit-kit-va-tao-trojan-2447)
- * [Phần 4: Virus máy tính và phân loại virus](https://sinhviencntt.net/ceh-virus-may-tinh-phan-loai-virus-may-tinh-2559)
- * [Phần 5: Giới thiệu Ransomware và Worm](https://sinhviencntt.net/ceh-ransomware-la-gi-va-worm-la-gi-2582)
- * [Phần 6: Tìm hiểu về fileless malware](https://sinhviencntt.net/ceh-tim-hieu-ve-fileless-malware-2584)
- * [Phần 7: Quy trình phân tích mã độc, phân tích tĩnh](https://sinhviencntt.net/ceh-quy-trinh-phan-tich-ma-doc-phan-tich-tinh-2602)
+
+- [Phần 1: Mã độc và cách thức lan truyền của mã độc](https://sinhviencntt.net/ceh-tieng-viet-cach-thuc-lan-truyen-ma-doc-2409)
+- [Phần 2: Trojan là gì?](https://sinhviencntt.net/ceh-tieng-viet-ma-doc-trojan-2418)
+- [Phần 3: Exploit kit và các bước tạo Trojan](https://sinhviencntt.net/ceh-tieng-viet-exploit-kit-va-tao-trojan-2447)
+- [Phần 4: Virus máy tính và phân loại virus](https://sinhviencntt.net/ceh-virus-may-tinh-phan-loai-virus-may-tinh-2559)
+- [Phần 5: Giới thiệu Ransomware và Worm](https://sinhviencntt.net/ceh-ransomware-la-gi-va-worm-la-gi-2582)
+- [Phần 6: Tìm hiểu về fileless malware](https://sinhviencntt.net/ceh-tim-hieu-ve-fileless-malware-2584)
+- [Phần 7: Quy trình phân tích mã độc, phân tích tĩnh](https://sinhviencntt.net/ceh-quy-trinh-phan-tich-ma-doc-phan-tich-tinh-2602)
+
 #### To be continute ....
