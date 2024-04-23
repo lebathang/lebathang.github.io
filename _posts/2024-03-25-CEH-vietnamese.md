@@ -19,13 +19,12 @@ social-share: false
 
 # CEH (V12) - Certified Ethical Hacker
 
-<details>
-<summary>Click me read more </summary>
+<!-- <details>
+<summary>Click me read more </summary> -->
 
 ### CEH V12 là gì?
-
-<details>
-    <summary>Click me read more</summary>
+<!-- <details>
+    <summary>Click me read more</summary> -->
 - CEH là từ viết tắt của Certified Ethical Hacker, hay còn gọi là chứng chỉ Hacker có đạo đức (mũ trắng). Một chương trình học CEH được thiết kế hướng dẫn những người có sở thích nghiên cứu về các phương pháp và kỹ thuật hack giúp họ thực hiện vai trò của mình trong an ninh mạng. Chương trình học CEH mới nhất là được gọi là CEH v12. Chương trình này bao gồm 5 bước như sau:
 
 - **Reconnaissance** – Trinh sát là giai đoạn chuẩn bị trong đó kẻ tấn công thu thập thông tin về mục tiêu.
@@ -40,12 +39,12 @@ social-share: false
 
 CEH v12 sẽ giúp bạn có suy nghĩ như một hacker và bảo vệ công ty, hệ thống của bạn không bị tấn công bởi Hacker khác.
 
-</details>
+<!-- </details> -->
 
 ### Khóa học CEH v12 có những gì?
 
-<details>
-<summary>Click me read more </summary>
+<!-- <details>
+<summary>Click me read more </summary> -->
 
 Chương trình đào tạo CEH v12 tuyển chọn 20 Module bao gồm nhiều công nghệ, chiến thuật và quy trình cung cấp cho các Hacker có đạo đức tương lai kiến ​​thức cốt lõi cần thiết để phát triển trong nghề mạng.
 
@@ -129,8 +128,8 @@ Tìm hiểu các khái niệm điện toán đám mây khác nhau, chẳng hạn
 
 Tìm hiểu về thuật toán mã hóa, công cụ mật mã, Cơ sở hạ tầng khóa công khai (PKI), mã hóa email, mã hóa ổ đĩa, tấn công mật mã và công cụ phân tích mật mã.
 
-</details>
-</details>
+<!-- </details>
+</details> -->
 
 ### Module 1: Introduction to Ethical Hacking
 
